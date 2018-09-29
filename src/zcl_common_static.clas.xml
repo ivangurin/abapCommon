@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_COMMON_STATIC</CLSNAME>
+    <VERSION>1</VERSION>
+    <LANGU>R</LANGU>
+    <DESCRIPT>Ñàìûå îáùèå ìåòîäû</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <CLSFINAL>X</CLSFINAL>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+    <MSG_ID>ZSRM_COMMON</MSG_ID>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_COMMON_STATIC</CLSNAME>
+     <CMPNAME>CONVERT_ISO2UNIT</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Ïîèñê êîäà ÅÈ ïî ISO</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_COMMON_STATIC</CLSNAME>
+     <CMPNAME>CURRENCY_LOCAL</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Currency Key</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_COMMON_STATIC</CLSNAME>
+     <CMPNAME>CURRENCY_RUB</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Currency Key</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_COMMON_STATIC</CLSNAME>
+     <CMPNAME>CURRENCY_RUB</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Âàëþòà</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_COMMON_STATIC</CLSNAME>
+     <CMPNAME>GET_CATEGORY_TEXT</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Ïîëó÷åíèå íàèìåíîâàíèÿ êàòåãîðèè</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_COMMON_STATIC</CLSNAME>
+     <CMPNAME>GET_COUNTRY_TEXT</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Ïîëó÷åíèå íàèìåíîâàíèÿ ñòðàíû</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_COMMON_STATIC</CLSNAME>
+     <CMPNAME>GET_CURRENCY_TEXT</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Ïîëó÷åíèå íàèìåíîâàíèÿ âàëþòû</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_COMMON_STATIC</CLSNAME>
+     <CMPNAME>GET_PRODUCT_TEXT</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Ïîëó÷åíèå íàìåíîâàíèÿ ïðîäóêòà</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_COMMON_STATIC</CLSNAME>
+     <CMPNAME>GET_REGION_LIST</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Ïîëó÷åíèå ñïèñêà ðåãèîíîâ</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_COMMON_STATIC</CLSNAME>
+     <CMPNAME>GET_REGION_TEXT</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Ïîëó÷åíèå íàèìåíîâàíèå ðåãèîíà</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_COMMON_STATIC</CLSNAME>
+     <CMPNAME>GET_UNIT_TEXT</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Ïîëó÷åíèå íàèìåíîâàíèÿ ÅÈ</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_COMMON_STATIC</CLSNAME>
+     <CMPNAME>UNIT_ST</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Áàçèñíàÿ åäèíèöà èçìåðåíèÿ</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
